@@ -3,7 +3,7 @@
 # Creator: Brendon Joseph Kelly (@atnychi0)
 # Created: June 1, 2025
 # License: CUDS Sovereign License (see LICENSE.md)
-# SHA-256 Hash: [E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855]
+# SHA-256 Hash: [5bc633372f6e80b51714efc4f63ddd63ea7836aa77320c7bceab5253cb7467b5]
 
 """
 CUDS: AI defense system by Brendon Joseph Kelly (@atnychi0).
