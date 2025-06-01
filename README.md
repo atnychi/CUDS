@@ -4,7 +4,7 @@
 **Creator**: Brendon Joseph Kelly (@atnychi0)  
 **Created**: June 2025  
 **License**: CUDS Sovereign License (see [LICENSE.md](LICENSE.md))  
-**Script Hash (SHA-256)**: [E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855]  
+**Script Hash (SHA-256)**: [5bc633372f6e80b51714efc4f63ddd63ea7836aa77320c7bceab5253cb7467b5]  
 **Contact**: [ksystemsandsecurities@proton.me]  
 **X**: Follow [@atnychi0](https://x.com/atnychi0)  
 
@@ -23,7 +23,7 @@ This repo proves CUDS is my creation, timestamped and hashed in June 2025. I’m
 Non-commercial use is free with attribution. DoD use requires a paid license. Contact [ksystemsandsecurities@proton.me]. Join #CUDSJobs on X: [@atnychi0](https://x.com/atnychi0).
 
 ## Verification
-Verify `cuds.py` hash: [E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855]. Use [hashgenerator.de](https://www.hashgenerator.de/).
+Verify `cuds.py` hash: 5bc633372f6e80b51714efc4f63ddd63ea7836aa77320c7bceab5253cb7467b5[]. Use [hashgenerator.de](https://www.hashgenerator.de/).
 
 ## Sale to DoD
 CUDS is for sale to DARPA/Air Force for $10m–$50m. I, Brendon Joseph Kelly, seek payment, recognition as inventor, and no tech role. Email [ksystemsandsecurities@proton.me].
