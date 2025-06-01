@@ -26,6 +26,6 @@ Non-commercial use is free with attribution. DoD use requires a paid license. Co
 Verify `cuds.py` hash: [E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855]. Use [hashgenerator.de](https://www.hashgenerator.de/).
 
 ## Sale to DoD
-CUDS is for sale to DARPA/Air Force for $500K–$10M. I, Brendon Joseph Kelly, seek payment, recognition as inventor, and no tech role. Email [ksystemsandsecurities@proton.me].
+CUDS is for sale to DARPA/Air Force for $10m–$50m. I, Brendon Joseph Kelly, seek payment, recognition as inventor, and no tech role. Email [ksystemsandsecurities@proton.me].
 
 #CUDSJobs: Veteran-first defense by @atnychi0.
