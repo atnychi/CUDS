@@ -11,12 +11,12 @@ CUDS is my vision, Brendon Joseph Kelly (@atnychi0), to unify defense with AI, s
 ## Terms
 1. **Attribution**: CUDS is by Brendon Joseph Kelly (@atnychi0). All use must credit me as inventor.
 2. **Non-Commercial Use**: Free for research with attribution. No modifications.
-3. **DoD/Commercial Use**: DoD or contractors (e.g., Lockheed) must pay a licensing fee ($500K–$10M or royalties). Contact [INSERT YOUR EMAIL HERE].
+3. **DoD/Commercial Use**: DoD or contractors (e.g., Lockheed) must pay a licensing fee ($500K–$10M or royalties). Contact [ksystemsandsecurities@proton.me].
 4. **No Oversight**: I have no role in CUDS’s development or operations. DoD handles all.
 5. **No Derivatives**: No changes without my permission.
 6. **Termination**: Violations end rights. I reserve legal action.
 7. **Ownership**: I retain IP rights as license holder.
-8. **Proof**: Timestamped on GitHub with hash: [INSERT HASH HERE].
+8. **Proof**: Timestamped on GitHub with hash: [E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855].
 
 ## Contact
 Email [ksystemsandsecurities@proton.me] for DoD sales. Follow [@atnychi0](https://x.com/atnychi0).
