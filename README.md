@@ -20,7 +20,7 @@ This repo proves CUDS is my creation, timestamped and hashed in June 2025. I’m
 - `README.md`: This file.
 
 ## Usage
-Non-commercial use is free with attribution. DoD use requires a paid license. Contact [INSERT YOUR EMAIL HERE]. Join #CUDSJobs on X: [@atnychi0](https://x.com/atnychi0).
+Non-commercial use is free with attribution. DoD use requires a paid license. Contact [ksystemsandsecurities@proton.me]. Join #CUDSJobs on X: [@atnychi0](https://x.com/atnychi0).
 
 ## Verification
 Verify `cuds.py` hash: [E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855]. Use [hashgenerator.de](https://www.hashgenerator.de/).
