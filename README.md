@@ -5,7 +5,7 @@
 **Created**: June 2025  
 **License**: CUDS Sovereign License (see [LICENSE.md](LICENSE.md))  
 **Script Hash (SHA-256)**: [INSERT HASH HERE]  
-**Contact**: [INSERT YOUR EMAIL HERE]  
+**Contact**: [ksystemsandsecurities@proton.me]  
 **X**: Follow [@atnychi0](https://x.com/atnychi0)  
 
 ## Overview
